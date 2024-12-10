@@ -59,6 +59,8 @@ We provide a platform for people to communicate with people that are hard of hea
       <tr>
       <td>M319B4KY2153</td>
       <td>Kevin Jonathan Sinaga</td>
+        <td>
+        </td>
       <td>
         <a href="https://github.com/kevins012">GitHub</a>
       </td>
