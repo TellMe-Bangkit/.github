@@ -108,7 +108,7 @@ We provide a platform for people to communicate with people that are hard of hea
       <td>
         <a href="https://github.com/TellMe-Bangkit/Machine-Learning">TellMe-Machine Learning</a>
       </td>
-      <td>Repository for the Machine Learning for the app</td>
+      <td>Repository for the Machine Learning of the app</td>
     </tr>
          <tr>
       <td>
