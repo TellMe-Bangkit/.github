@@ -1,5 +1,7 @@
 # TellMe-Real Time Sign Language Translator
 
+![](banner.png)
+
 TellMe is an app that bridges the communication barrier with the impaired
 We provide a platform for people to communicate with people that are hard of hearing or talking, also this is the platform for people that want to learn sign language easily.
 
